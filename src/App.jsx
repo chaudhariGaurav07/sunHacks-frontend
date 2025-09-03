@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route, Navigate, useNavigate, useLocation } from
 import { AuthProvider, useAuth } from './context/AuthContext'; // Adjust path
 import Login from './components/Login'; // Adjust path
 import Register from './components/Register'; // Adjust path
-import Dashboard from './components/Dashboard'; // Adjust path
+import Dashboard from './Pages/Dashboard'; // Adjust path
 import Home from './Pages/Home'; // Assuming your Home component is here
 
 // A wrapper component for protected routes
