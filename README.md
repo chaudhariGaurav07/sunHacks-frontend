@@ -155,5 +155,3 @@ cd server && npm run dev
 4. Push to the branch
 5. Open a Pull Request
 
-## License
-MIT License - see LICENSE file for details
