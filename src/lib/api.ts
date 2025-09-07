@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://sunhacks-backend.onrender.com';
+const API_BASE_URL = 'https://sunhacks-backend.onrender.com/api';
 
 // Create axios instance
 const api = axios.create({
